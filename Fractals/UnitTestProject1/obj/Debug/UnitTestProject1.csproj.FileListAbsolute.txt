@@ -1,0 +1,7 @@
+H:\ADS\AssignmentOne\Fractals\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+H:\ADS\AssignmentOne\Fractals\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+H:\ADS\AssignmentOne\Fractals\UnitTestProject1\bin\Debug\Fractals.exe
+H:\ADS\AssignmentOne\Fractals\UnitTestProject1\bin\Debug\Fractals.pdb
+H:\ADS\AssignmentOne\Fractals\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+H:\ADS\AssignmentOne\Fractals\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+H:\ADS\AssignmentOne\Fractals\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

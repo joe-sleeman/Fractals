@@ -1,0 +1,9 @@
+H:\ADS\AssignmentOne\Fractals\Fractals\bin\Debug\Fractals.exe.config
+H:\ADS\AssignmentOne\Fractals\Fractals\bin\Debug\Fractals.exe
+H:\ADS\AssignmentOne\Fractals\Fractals\bin\Debug\Fractals.pdb
+H:\ADS\AssignmentOne\Fractals\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+H:\ADS\AssignmentOne\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+H:\ADS\AssignmentOne\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+H:\ADS\AssignmentOne\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+H:\ADS\AssignmentOne\Fractals\Fractals\obj\Debug\Fractals.exe
+H:\ADS\AssignmentOne\Fractals\Fractals\obj\Debug\Fractals.pdb
